@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarthakm402
+- 👋 Hi, I’m Sarthak Mohapatra
 - 👀 I’m interested in  making machine think as logically and as sympathetically as humans do.
 - 🌱 I’m currently learning DSA,AI and Ml,Generative Ai
 - 💞️ I’m looking to collaborate on ...
