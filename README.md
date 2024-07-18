@@ -20,8 +20,9 @@
   <img height="40" align="center" alt="Erica-TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" align="center" alt="Transformers" height="30" width="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
-
- 
+<img height="40" align="center" alt="Scikit-Learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+ <img height="40" align="center" alt="Spyder" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg">
+<img height="40" align="center" alt="DaVinci Resolve" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/DaVinci_Resolve_17_logo.svg">
 </div>
 </br>
 
