@@ -22,7 +22,11 @@
 <img height="40" align="center" alt="Transformers" height="30" width="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
 <img height="40" align="center" alt="Scikit-Learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
  <img height="40" align="center" alt="Spyder" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg">
-<img height="40" align="center" alt="DaVinci Resolve" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/DaVinci_Resolve_17_logo.svg">
+<img height="40" align="center" alt="DaVinci Resolve" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/DaVinci_Resolve_17_logo.png">
+    <img height="40" align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+    <img height="40" align="center" alt="C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+    <img height="40" align="center" alt="Pandas" height="30" width="40" src="https://pandas.pydata.org/static/img/pandas_mark.svg">
+    <img height="40" align="center" alt="NumPy" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
 </div>
 </br>
 
