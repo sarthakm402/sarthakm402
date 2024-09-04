@@ -33,7 +33,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img height="40" align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="Power BI" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimovo.com%2Ftechnology-partners%2Fmicrosoft-power-bi%2F&psig=AOvVaw26h0HPt0Mnft_5Cj3AwywX&ust=1725523783850000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODZwpPrqIgDFQAAAAAdAAAAABAE">
+   <img height="40" align="center" alt="Power BI" width="40" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" align="center" alt="Pandas" height="30" width="40" src="https://pandas.pydata.org/static/img/pandas_mark.svg">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
