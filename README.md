@@ -1,6 +1,6 @@
 ## Hi, I am Sarthak Mohapatra! 
 </br>  
-<details>
+<details> 
     <summary><strong>Github Stats</strong></summary> 
     <img src="https://github-readme-stats.vercel.app/api?username=sarthakm402&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sarthakm402's Stats">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakm402&theme=vue-dark&hide_border=true" alt="sarthakm402's Streak">
