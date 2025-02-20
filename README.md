@@ -1,4 +1,4 @@
-## Hi, I am Sarthak Mohapatra! 
+## Hi, I am Sarthak Mohapatra!  
 </br>  
 <details> 
     <summary><strong>Github Stats</strong></summary> 
